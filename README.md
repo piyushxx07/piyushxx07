@@ -2,10 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Piyush%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-# Hi, I'm Piyush Kumar 👋  
-### Data Analyst | Ecommerce Analytics | Product Discovery | AI Commerce Readiness
+# Hi, I'm Piyush Kumar 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=900&lines=I+turn+raw+data+into+business+decisions;Building+Ecommerce+Analytics+and+Product+Discovery+Projects;+Building+AI+Commerce+Readiness+for+Search%2C+Discovery+%26+Shopping+Agents;SQL+%7C+Python+%7C+Power+BI+%7C+Business+Intelligence;Search+finds+products.+AI+agents+must+recommend+the+right+ones." alt="Typing SVG" />
+### Data & Implementation Analyst | Business Intelligence | Automation | Python • SQL • Power BI
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=950&lines=From+noise+to+insight%2C+from+insight+to+action;I+build+dashboards+that+explain+business+performance;Turning+messy+workflows+into+measurable+systems;Python+%7C+SQL+%7C+Power+BI+%7C+Automation;Healthcare+%7C+Supply+Chain+%7C+Finance+%7C+Retail+%7C+Customer+Analytics" alt="Typing SVG" />
 
 <br/>
 
@@ -27,51 +28,23 @@
 
 ## About Me
 
-I am a **Data Analyst** focused on ecommerce analytics, product discovery, customer behavior, and business intelligence.
+I am a **Data & Implementation Analyst** focused on business intelligence, dashboard development, automation, and customer-facing analytics.
 
-I like building projects that answer real business questions, not just dashboards.  
-Currently, I am exploring **AI Commerce Readiness** and preparing my upcoming project: **Agent Ready**.
+I like building projects that do more than show charts.
+My focus is to understand the business problem, clean the data, build the model, create meaningful KPIs, and present insights that help teams make better decisions.
 
-> **My focus:** Data → Insights → Product Discovery → Better Shopping Decisions
+I have worked on analytics projects across:
 
----
+* Healthcare operations
+* Supply chain and logistics
+* Personal finance analytics
+* Retail sales performance
+* Customer retention and segmentation
+* Music and streaming analytics
+* Omnichannel retail analytics
+* Ecommerce discovery and funnel analysis
 
-## Inspired By Constructor.io
-
-<div align="center">
-
-<a href="https://constructor.io/">
-  <img src="https://www.google.com/s2/favicons?domain=constructor.io&sz=64" width="55" alt="Constructor.io Logo" />
-</a>
-
-<br/>
-
-<a href="https://constructor.io/">
-  <img src="https://img.shields.io/badge/Inspired%20By-Constructor.io-2C5364?style=for-the-badge" />
-</a>
-
-</div>
-
-I am inspired by what **Constructor.io** is building in ecommerce search and product discovery.
-
-Constructor.io focuses on helping ecommerce companies improve how shoppers search, discover, compare, and buy products using AI, personalization, behavioral data, and product discovery intelligence.
-
-Their work connects strongly with the kind of projects I am building:
-
-- Ecommerce search analytics  
-- Product discovery intelligence  
-- Personalized recommendations  
-- Search and browse optimization  
-- Product ranking and conversion improvement  
-- AI-powered shopping experiences  
-
-This inspired me to think about a future problem:
-
-> Ecommerce brands may want AI shopping agents,  
-> But first they need to know if their product data, reviews, FAQs, claims, and ranking systems are ready for AI-driven shopping.
-
-That thinking became the base for my upcoming idea: **Agent Ready**.
-
+> **My focus:** Business Problem → Data Model → Dashboard → Insight → Action
 
 ---
 
@@ -79,20 +52,23 @@ That thinking became the base for my upcoming idea: **Agent Ready**.
 
 <div align="center">
 
-### Data & Analytics
+### Data, BI & Analytics
 
 <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/DAX-KPI%20Measures-2C5364?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power%20Query-ETL-217346?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/DuckDB-SQL%20Engine-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
-<img src="https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-### Web & Tools
+### Web, Automation & Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,flask,git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,flask,django,git,github,vscode,vercel" />
 
 </div>
 
@@ -106,52 +82,55 @@ That thinking became the base for my upcoming idea: **Agent Ready**.
 <tr>
 <td width="50%">
 
-### DiscoverIQ  
-#### Ecommerce Search & Product Discovery Analytics
+### Hospital Analytics
 
-DiscoverIQ is an ecommerce analytics project focused on understanding how users move through product discovery, search, cart, and purchase journeys.
+#### Healthcare Operations Dashboard
+
+End-to-end hospital operations dashboard built to monitor patient flow, billing, bed occupancy, doctor performance, medicine stock, and hospital finance.
 
 **Business Focus**
 
-- Search and discovery analytics  
-- Funnel drop-off analysis  
-- Revenue and conversion KPIs  
-- Product-level performance  
-- Brand and category analysis  
-- Customer segmentation  
-- Month-over-month comparison  
+* Patient flow analysis
+* Billing and revenue tracking
+* Bed occupancy monitoring
+* Doctor performance analysis
+* Medicine stock visibility
+* Executive healthcare KPIs
 
 **Tech Used**
 
-<img src="https://img.shields.io/badge/SQL-Analytics-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-Pandas-yellow?style=flat-square" />
 <img src="https://img.shields.io/badge/Power%20BI-Dashboard-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/DuckDB-Data%20Processing-black?style=flat-square" />
-<img src="https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=flat-square" />
+<img src="https://img.shields.io/badge/Power%20Query-ETL-green?style=flat-square" />
+<img src="https://img.shields.io/badge/DAX-KPI%20Measures-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Excel-Data%20Source-217346?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Modeling-Healthcare-purple?style=flat-square" />
 
 </td>
 
 <td width="50%">
 
-### Under Armour Ecommerce Analytics
+### Supply Chain Analytics
 
-A business intelligence project focused on analyzing ecommerce sales, product performance, customer behavior, and business KPIs for a sportswear brand use case.
+#### Logistics & Operations Dashboard
+
+End-to-end supply chain dashboard built to analyze suppliers, procurement, inventory, production, shipments, logistics, customers, and sales performance.
 
 **Business Focus**
 
-- Sales performance analysis  
-- Product and category insights  
-- Customer behavior analysis  
-- Revenue and order trends  
-- KPI dashboard storytelling  
-- Business recommendation building  
+* Supplier performance
+* Inventory optimization
+* Shipment delay analysis
+* Procurement tracking
+* Product quality monitoring
+* Revenue and customer analysis
 
 **Tech Used**
 
-<img src="https://img.shields.io/badge/SQL-Business%20KPIs-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-EDA-yellow?style=flat-square" />
 <img src="https://img.shields.io/badge/Power%20BI-Dashboard-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Excel-Analysis-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Power%20Query-ETL-green?style=flat-square" />
+<img src="https://img.shields.io/badge/DAX-KPIs-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/CSV-Data%20Source-lightgrey?style=flat-square" />
+<img src="https://img.shields.io/badge/Supply%20Chain-Analytics-purple?style=flat-square" />
 
 </td>
 </tr>
@@ -159,47 +138,194 @@ A business intelligence project focused on analyzing ecommerce sales, product pe
 <tr>
 <td width="50%">
 
-### Sephora Omnichannel Ecommerce Intelligence
+### Personal Finance Analytics
 
-A business intelligence project built to understand ecommerce performance, omnichannel behavior, product/category performance, and customer insights.
+#### Finance Dashboard with Advanced DAX
+
+Interactive personal finance dashboard built to track income, expenses, savings, monthly growth, and financial trends using dynamic Power BI reporting.
 
 **Business Focus**
 
-- Omnichannel ecommerce analysis  
-- Product performance tracking  
-- Category and brand insights  
-- Customer behavior analysis  
-- KPI reporting  
-- Dashboard storytelling  
+* Income and expense tracking
+* Savings performance analysis
+* Monthly growth calculation
+* Dynamic KPI cards
+* Time intelligence analysis
+* Custom tooltip insights
 
 **Tech Used**
 
-<img src="https://img.shields.io/badge/SQL-Views-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-EDA-yellow?style=flat-square" />
-<img src="https://img.shields.io/badge/Power%20BI-Reports-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Business%20Intelligence-KPIs-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/Power%20BI-Dashboard-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/DAX-Time%20Intelligence-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Power%20Query-ETL-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Excel-Data%20Source-217346?style=flat-square" />
+<img src="https://img.shields.io/badge/Finance-Analytics-purple?style=flat-square" />
 
 </td>
 
 <td width="50%">
 
-### Portfolio Website
+### Under Armour
 
-My personal portfolio website where I present my projects, skills, and work as a data analyst.
+#### Customer Retention Analytics
 
-**Focus**
+Customer analytics project focused on churn, repeat purchases, RFM segmentation, loyalty behavior, and retention strategy for a retail brand use case.
 
-- Personal branding  
-- Project presentation  
-- Professional profile  
-- Portfolio showcase  
+**Business Focus**
+
+* Churn analysis
+* Customer segmentation
+* RFM modeling
+* Loyalty behavior analysis
+* Repeat purchase analysis
+* Retention strategy building
+
+**Key Numbers**
+
+* 200K customers
+* 3M transactions
+* 2M sessions
+* 600K recommendation events
+* 18.57% churn rate
+* 55.10% churn among one-time buyers
 
 **Tech Used**
 
-<img src="https://img.shields.io/badge/HTML-Structure-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-Styling-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-Interaction-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Vercel-Deployment-black?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Pandas-yellow?style=flat-square" />
+<img src="https://img.shields.io/badge/SQL-Analytics-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Power%20BI-Dashboard-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/RFM-Segmentation-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/Churn-Analysis-red?style=flat-square" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Starbucks Sales Analytics
+
+#### Retail Sales Intelligence Dashboard
+
+Retail sales dashboard built to monitor revenue, order trends, customer activity, hourly sales behavior, and transaction-level insights.
+
+**Business Focus**
+
+* Sales revenue analysis
+* Hourly order trends
+* Customer activity tracking
+* Product sales performance
+* Transaction-level reporting
+* Daily store performance
+
+**Tech Used**
+
+<img src="https://img.shields.io/badge/Power%20BI-Dashboard-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/DAX-Business%20Measures-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Power%20Query-ETL-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Excel-Data%20Source-217346?style=flat-square" />
+<img src="https://img.shields.io/badge/Retail-Sales%20Analytics-purple?style=flat-square" />
+
+</td>
+
+<td width="50%">
+
+### Sephora Analytics
+
+#### Omnichannel Beauty Retail Dashboard
+
+Omnichannel beauty retail analytics project built to understand customer journey, product performance, search behavior, campaign activity, and recommendation performance.
+
+**Business Focus**
+
+* Omnichannel retail analysis
+* Product and brand performance
+* Customer journey tracking
+* Search and recommendation analytics
+* Campaign performance analysis
+* Revenue and funnel insights
+
+**Key Numbers**
+
+* 503K+ customers
+* 1.3M+ reviews
+* 350K sessions
+* 896K impressions
+* 222K clicks
+* $1.173M revenue
+
+**Tech Used**
+
+<img src="https://img.shields.io/badge/Python-Pandas-yellow?style=flat-square" />
+<img src="https://img.shields.io/badge/SQL-Analytics-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Power%20BI-Dashboard-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Modeling-Star%20Schema-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/Retail-Analytics-pink?style=flat-square" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Spotify Analytics
+
+#### Music & Streaming Dashboard
+
+Interactive music analytics dashboard designed to explore artist performance, song popularity, album types, explicit content trends, and playlist insights.
+
+**Business Focus**
+
+* Artist ranking
+* Song popularity analysis
+* Album type distribution
+* Explicit vs non-explicit trends
+* Monthly and yearly popularity trends
+* Playlist and content insights
+
+**Tech Used**
+
+<img src="https://img.shields.io/badge/Power%20BI-Dashboard-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/DAX-Dynamic%20Measures-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Field%20Parameters-Interactive%20Reports-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/Excel-Data%20Source-217346?style=flat-square" />
+<img src="https://img.shields.io/badge/Streaming-Analytics-black?style=flat-square" />
+
+</td>
+
+<td width="50%">
+
+### DiscoverIQ
+
+#### Ecommerce Discovery Analytics
+
+Ecommerce analytics project focused on search behavior, product discovery, funnel drop-offs, conversion movement, revenue decline, and customer journey analysis.
+
+**Business Focus**
+
+* Search and discovery analytics
+* Funnel drop-off analysis
+* Conversion tracking
+* Product and category performance
+* Customer segment analysis
+* Revenue movement analysis
+
+**Key Numbers**
+
+* 6.54M sessions
+* 3.09M users
+* 268K products
+* 726 brands
+* Revenue dropped from $27.02M to $20.36M
+* Conversion dropped from 2.82% to 2.05%
+
+**Tech Used**
+
+<img src="https://img.shields.io/badge/Python-Pandas-yellow?style=flat-square" />
+<img src="https://img.shields.io/badge/SQL-Analytics-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/DuckDB-Data%20Processing-black?style=flat-square" />
+<img src="https://img.shields.io/badge/Power%20BI-Dashboard-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Funnel-Analysis-purple?style=flat-square" />
 
 </td>
 </tr>
@@ -209,84 +335,18 @@ My personal portfolio website where I present my projects, skills, and work as a
 
 ---
 
-## Upcoming Project
-
-<div align="center">
-
-### Agent Ready ⚡  
-#### AI Commerce Readiness for Search, Discovery & Shopping Agents
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&center=true&vCenter=true&width=950&lines=Agent+Ready%3A+AI+Commerce+Trust+Readiness+Test;Search+finds+products.+AI+agents+must+recommend+the+right+ones.;Testing+if+ecommerce+brands+are+ready+for+AI+shopping+agents;Inspired+by+the+future+of+Constructor-style+AI+commerce" alt="Agent Ready Typing SVG" />
-
-</div>
-
-**Agent Ready** is my upcoming idea inspired by the future of AI commerce and platforms like Constructor.io.
-
-It is an **AI Commerce Trust Readiness Test** for ecommerce companies that want to use AI shopping agents, but may not know whether their product data, reviews, FAQs, claims, and ranking systems are ready.
-
-> **Tagline:** Search finds products. AI agents must recommend the right ones.
-
-### Problem
-
-Ecommerce companies want AI shopping agents, but their product data, product claims, reviews, FAQs, and recommendation systems may not be ready for trustworthy AI-driven shopping.
-
-If the data is weak, confusing, biased, or incomplete, the AI agent may recommend the wrong product, compare products badly, or fail to explain why a product is suitable.
-
-### What Agent Ready Checks
-
-- Can the AI agent understand the product clearly?
-- Can the AI agent trust the product claims?
-- Can the AI agent compare products correctly?
-- Can the AI agent avoid biased recommendations?
-- Can the AI agent explain recommendations clearly?
-- Is the product data ready for AI search and discovery?
-- Are reviews and FAQs useful enough for AI-based shopping decisions?
-- Is the ranking system ready for agent-based recommendations?
-
-### Why This Matters
-
-As ecommerce moves toward AI shopping agents, brands will need a simple way to answer one important question:
-
-> **Are we ready for AI shopping?**
-
-Agent Ready will help ecommerce brands test whether their product experience is ready for AI-powered search, discovery, and recommendation.
-
-### Planned Focus
-
-- AI commerce readiness  
-- Product data quality  
-- Search and discovery intelligence  
-- Shopping agent trust testing  
-- Product comparison logic  
-- Recommendation explanation quality  
-- Bias detection in recommendations  
-- Ecommerce AI audit scoring  
-
-**Expected Tech**
-
-<img src="https://img.shields.io/badge/Python-AI%20Logic-yellow?style=flat-square" />
-<img src="https://img.shields.io/badge/SQL-Data%20Testing-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Flask-Backend-black?style=flat-square" />
-<img src="https://img.shields.io/badge/APIs-Automation-green?style=flat-square" />
-<img src="https://img.shields.io/badge/AI%20Agents-Trust%20Testing-purple?style=flat-square" />
-<img src="https://img.shields.io/badge/Ecommerce-Search%20%26%20Discovery-orange?style=flat-square" />
-
----
-
 ## My Working Style
 
-I don’t complain. I build.  
-I don’t just copy dashboards. I try to understand the business.  
-I don’t stop at charts. I write insights.  
-I don’t chase shortcuts. I improve step by step.
+I don’t just build dashboards. I try to understand the business behind the dashboard.
 
 **My rules**
 
-- Learn deeply  
-- Build practically  
-- Think like a business  
-- Explain simply  
-- Improve every project  
+* Start with the business question
+* Clean the data before trusting the numbers
+* Build KPIs that decision-makers can understand
+* Use dashboards to explain, not decorate
+* Convert insights into actions
+* Keep improving every project
 
 ---
 
@@ -300,12 +360,17 @@ I don’t chase shortcuts. I improve step by step.
 
 **Most used in my learning and projects**
 
-| Skill | Where I Use It |
-|---|---|
-| SQL | Business analysis, KPIs, views, joins, segmentation |
-| Python | Cleaning, EDA, automation, data processing |
-| Power BI | Dashboards, storytelling, executive reporting |
-| JavaScript | Portfolio and frontend projects |
+| Skill       | Where I Use It                                        |
+| ----------- | ----------------------------------------------------- |
+| SQL         | KPIs, joins, segmentation, business analysis          |
+| Python      | Data cleaning, EDA, automation, backend logic         |
+| Power BI    | Dashboards, storytelling, executive reporting         |
+| DAX         | KPI measures, time intelligence, dynamic calculations |
+| Power Query | ETL, data transformation, model preparation           |
+| MongoDB     | App data storage and workflow automation              |
+| OpenAI API  | AI-powered document generation and automation         |
+| Excel       | Data source preparation and reporting                 |
+| Tableau     | Dashboarding and visual analytics                     |
 
 ---
 
@@ -333,14 +398,17 @@ I don’t chase shortcuts. I improve step by step.
 
 ## Current Learning Direction
 
-- SQL for analytics and interviews  
-- Power BI dashboard storytelling  
-- Python for data analysis  
-- Ecommerce product analytics  
-- Search and recommendation analytics  
-- AI commerce readiness testing  
-- Agentic AI workflows  
-- Professional communication  
+* SQL for analytics and interviews
+* Power BI dashboard storytelling
+* DAX and Power Query
+* Python for data analysis and automation
+* Business intelligence reporting
+* Customer behavior analytics
+* Healthcare and operational analytics
+* Supply chain and logistics analytics
+* Retail and finance analytics
+* Client-facing implementation support
+* Professional communication
 
 ---
 
@@ -358,7 +426,7 @@ I don’t chase shortcuts. I improve step by step.
 
 <div align="center">
 
-### “I don’t just analyze data. I try to understand the business story behind it.”
+### “From noise to insight, from insight to action.”
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" />
 
